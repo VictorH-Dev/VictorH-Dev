@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/victor-hugo-santana-611815227/"><i>Victor Hugo</i></a> 😃️</h1>
-  <p align="center">Estudo ADS na <a href="https://www.uninove.com.br/"><i>Uninove</i></a> e compartilho meu aprendizado no meu GitHub <a href="https://github.com/VictorH-Dev"><i>GitHUb</i></a><span> 👉🏽️</span>
+  <p align="center">Estudo ADS na <a href="[https://www.uninove.com.br/](https://www.uninove.br/)"><i>Uninove</i></a> e compartilho meu aprendizado no meu GitHub <a href="https://github.com/VictorH-Dev"><i>GitHUb</i></a><span> 👉🏽️</span>
   <a align="rigth"  href="" target="_blank">
     <img width="10%" align=" " target="_blank" />
   </a><br>
@@ -8,11 +8,11 @@
 </div>
 
 
-<!-- <h1 align="center"> 
+ <h1 align="center"> 
   UNINOVE
 </h1>
 
-<p align="center"><i>"#"</i></p> -->
+<p align="center"><i>"#"</i></p> 
 
 <div align="center">
   <a href="https://github.com/VictorH-Dev">
@@ -32,7 +32,7 @@
   <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
-<!--   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> -->
+   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br>
 
