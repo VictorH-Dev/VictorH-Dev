@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/victor-hugo-santana-611815227/"><i>Victor Hugo</i></a> 😃️</h1>
-  <p align="center">Estudo ADS na <a href="https://www.uninove.br/"><i>Uninove</i></a> e compartilho meu aprendizado no meu GitHub <a href="https://github.com/VictorH-Dev"><i>GitHUb</i></a><span> 👉🏽️</span>
+  <p align="center">Estudo ADS na <a href="https://www.uninove.br/"><i>Uninove</i></a> e compartilho meu aprendizado no meu  <a href="https://github.com/VictorH-Dev"><i>GitHUb</i></a><span> 👉🏽️</span>
   <a align="rigth"  href="" target="_blank">
     <img width="10%" align=" " target="_blank" />
   </a><br>
