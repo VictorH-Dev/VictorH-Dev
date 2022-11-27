@@ -25,4 +25,3 @@ Estudo ADS na Uninove e compartilho meu aprendizado no meu GitHUb
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/vhshugtsfull@gmail.com) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
