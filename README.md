@@ -1,6 +1,10 @@
 # 💫 About Me:
-Olá, meu chamo Victor, sou de Barueri. Sou estudante de Análise e Desenvolvimento de Sistemas pela UNINOVE e em busca de novas aventuras no mercado de trabalho.
-
+🔭 unemployed
+👯 I'm looking to collaborate
+🤝 I'm looking for a partner for projects
+🌱 I'm currently just a student
+💬 Ask me about
+⚡ Curiosity
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Vihsxnts) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/victor-hugo-santana-611815227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
