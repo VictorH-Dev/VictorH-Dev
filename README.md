@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 unemployed /n
-👯 I'm looking to collaborate /n
-🤝 I'm looking for a partner for projects /n
-🌱 I'm currently just a student
-💬 Ask me about
+🔭 unemployed <br>
+👯 I'm looking to collaborate <br>
+🤝 I'm looking for a partner for projects <br>
+🌱 I'm currently just a student <br>
+💬 Ask me about <br>
 ⚡ Curiosity
 
 ## 🌐 Socials:
